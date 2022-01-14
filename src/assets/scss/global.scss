@@ -1,0 +1,64 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #262626;
+    font-family: 'Inter', sans-serif;
+    font-style: 14px;
+    line-height: 1.8;
+}
+
+@for $i from 1 through 6 {
+    h#{$i} {
+        margin: 0;
+    }
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    display: block;
+    min-width: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+svg {
+    display: block;
+}
+
+button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 0;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+    overflow: hidden;
+}
+
+.x-container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.x-content {
+    width: 980px;
+    margin: 0 auto;
+}

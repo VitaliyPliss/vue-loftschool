@@ -1,0 +1,83 @@
+[
+    {
+        "id": "0",
+        "author": "Jack",
+        "title": "Vue.js",
+        "text": "<b>JavaScript</b> framework for building interactive web applications",
+        "stars": "156K",
+        "forks": "4",
+        "date": "15 MAY",
+        "img": "../../assets/images/avatars/ProfilePic.svg",
+        "comments": [
+            {
+                "id": "0",
+                "author": "joshua_l",
+                "text": "Enable performance measuring in production, at the user's request"
+            },
+            {
+                "id": "1",
+                "author": "Camille",
+                "text": "It's Impossible to Rename an Inherited Slot"
+            },
+            {
+                "id": "2",
+                "author": "Marselle",
+                "text": "transition-group with flex parent causes removed items to fly"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "author": "Camille",
+        "title": "React.js",
+        "text": "<b>Open source</b> JavaScript library used for designing user interfaces",
+        "stars": "16K",
+        "forks": "7",
+        "date": "15 SEPTEMBER",
+        "img": "../../assets/images/avatars/ProfilePic.svg",
+        "comments": [
+            {
+                "id": "0",
+                "author": "joshua_l",
+                "text": "Enable performance measuring in production, at the user's request"
+            },
+            {
+                "id": "1",
+                "author": "Camille",
+                "text": "It's Impossible to Rename an Inherited Slot"
+            },
+            {
+                "id": "2",
+                "author": "Marselle",
+                "text": "transition-group with flex parent causes removed items to fly"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "author": "Diself",
+        "title": "github-trending-api",
+        "text": "<b>The task</b> missing APIs fot Github trending projects and developers",
+        "stars": "15K",
+        "forks": "41",
+        "date": "15 MAY",
+        "img": "../../assets/images/avatars/ProfilePic.svg",
+        "comments": [
+            {
+                "id": "0",
+                "author": "joshua_l",
+                "text": "Enable performance measuring in production, at the user's request"
+            },
+            {
+                "id": "1",
+                "author": "Camille",
+                "text": "It's Impossible to Rename an Inherited Slot"
+            },
+            {
+                "id": "2",
+                "author": "Marselle",
+                "text": "transition-group with flex parent causes removed items to fly"
+            }
+        ]
+    }
+]
