@@ -28,22 +28,5 @@ export default {
 }
 </script>
 
-<style lang="scss">
-.button {
-  display: inline-flex;
-  align-items: center;
-  padding: 0;
-  .icon {
-    width: 10px;
-    transform: rotate(180deg);
-  }
-  &.active {
-    .icon {
-      transform: rotate(0deg);
-    }
-  }
-}
-.text {
-  margin-right: 5px;
-}
+<style lang="scss" src="./toggler.scss" scoped>
 </style>

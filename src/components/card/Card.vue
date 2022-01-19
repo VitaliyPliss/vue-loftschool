@@ -27,17 +27,6 @@ export default {
 }
 </script>
 
-<style lang="scss">
-.card-callout {
-  padding: 24px 20px;
-  margin-bottom: 18px;
-  background: #ffffff;
-  border: 1px solid #f1f1f1;
-  box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.07);
-  border-radius: 10px;
-}
-.card-date {
-  text-transform: uppercase;
-  color: rgba(0, 0, 0, 0.4);
-}
+<style lang="scss" src="./card.scss" scoped>
+
 </style>

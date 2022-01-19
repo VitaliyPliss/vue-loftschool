@@ -71,43 +71,6 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
-.icon {
-  width: 32px;
-}
-.stories {
-  display: flex;
-  justify-content: space-between;
-}
-.header {
-  height: 276px;
-  margin: 0 auto;
-  background: #fafafa;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-}
-.logo {
-  width: 174px;
-  height: 40px;
-}
-.header-links {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-.user-profile {
-  width: 37px;
-  height: auto;
-}
-.x-content {
-  padding-top: 32px;
-}
-.card-title {
-  font-weight: bold;
-  font-size: 26px;
-  margin-bottom: 16px;
-}
-.card-text {
-  margin-bottom: 32px;
-}
+<style lang="scss" src="./feeds.scss" scoped>
 
 </style>

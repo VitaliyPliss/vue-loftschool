@@ -23,9 +23,6 @@ export default {
 }
 </script>
 
-<style lang="scss">
-.username {
-  font-weight: bold;
-  font-size: 18px;
-}
+<style lang="scss" src="./comment.scss" scoped>
+
 </style>

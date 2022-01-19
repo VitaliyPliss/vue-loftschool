@@ -22,24 +22,6 @@ export default {
 }
 </script>
 
-<style lang="scss">
-.avatar {
-  width: 92px;
-  height: 92px;
-  border-radius: 50%;
-  outline: 2px solid #a6328d;
-  &:hover {
-    outline: none;
-  }
-  img {
-    display: flex;
-    margin: auto;
-    padding-top: 6px;
-    min-width: 80px;
-    width: 80px;
-  }
-}
-.username {
-  margin-top: 10px;
-}
+<style lang="scss" src="./userAvatar.scss" scoped>
+
 </style>
